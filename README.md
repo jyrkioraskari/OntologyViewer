@@ -8,6 +8,8 @@ the ontology to a server.
 The project is intentionally focused: it is a visual workspace, not a complete
 OWL reasoner or an ontology persistence service.
 
+<img src="Screen1.png" alt="Ontology viewer application" width="800">
+
 ## What you can do
 
 - Open Turtle, RDF/XML, OWL, or JSON-LD files up to 5 MB.
@@ -114,6 +116,9 @@ Then:
 Parsing happens entirely in the browser. For format-specific behavior and the
 supported subset of each serialization, read
 [Importing ontologies](docs/importing-ontologies.md).
+
+
+<img src="Screen2.png" alt="Ontology viewer application" width="800">
 
 ## Useful commands
 
